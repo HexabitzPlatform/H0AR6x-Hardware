@@ -1,0 +1,554 @@
+*************************************************************
+FileName = H0AR6.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 12
+      File : H0AR6.GM12
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : H0AR6.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : H0AR6.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D32
+    D33
+    D36
+    D37
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : H0AR6.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : H0AR6.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D15
+    D16
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : H0AR6.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : H0AR6.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D45
+    D46
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : H0AR6.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : H0AR6.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : H0AR6.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : H0AR6.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : H0AR6.GM2
+
+    Adding Layer      : Dimensions
+
+
+Used DCodes :
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : H0AR6.GM3
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : H0AR6.GM5
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : H0AR6.GM9
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D13
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : H0AR6.GM10
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : H0AR6.GM11
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 14
+      File : H0AR6.GM14
+
+    Adding Layer      : Mechanical 14
+
+
+Used DCodes :
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : H0AR6.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : H0AR6.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : H0AR6.GM18
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D11
+    D57
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : H0AR6.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D32
+    D33
+    D36
+    D37
+    D39
+    D40
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : H0AR6.GM22
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D11
+    D13
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Tenting
+      File : H0AR6.GM7
+
+    Adding Layer      : Top Tenting
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : H0AR6.GM34
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : H0AR6.GM38
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D11
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : H0AR6.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D32
+    D33
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : H0AR6.GM19
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 33
+      File : H0AR6.GM33
+
+    Adding Layer      : Mechanical 33
+
+
+Used DCodes :
+    D54
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 32
+      File : H0AR6.GM32
+
+    Adding Layer      : Mechanical 32
+
+
+Used DCodes :
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : H0AR6.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D21
+    D22
+    D23
+    D24
+    D32
+    D33
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Tenting
+      File : H0AR6.GM8
+
+    Adding Layer      : Bottom Tenting
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : H0AR6.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D14
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : H0AR6.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : H0AR6.GM
+
+
+Used DCodes :
+    D63
+*************************************************************
+
